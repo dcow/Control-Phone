@@ -1,0 +1,19 @@
+Control Phone
+
+I was skiing the other weekend in Slovakia and my phone fell out of my zipper pocket 0_o  I tried calling it as soon as I realized it was gone.  The call never reached voicemail..
+
+I didn't have proof that my phone had actually been stolen (my white phone may have been lying waterlogged somewhere on the white slopes of the Lower Tatras).  Then, about a week later, photos started appearing on my Google+ instant uploads -- there are photos of some guy, his mom, his chubby pub friends, his girlfriend who's too young for him, some guy in a tux..  Aparently whoever has my phone doesn't know there's still an acount linked to it!
+
+I tried to think of what I could do to get my phone back: I hadn't activated Latitude (because I thought it was kinda creepy..), I hadn't installed any phone tracking software, etc.  It seemed like I was out of luck.  BUT, then I started poking around on the new Play market.  It turns out you can REMOTLEY INSTALL SOFTWARE TO YOUR PHONE WITHOUT ANY CONFIRMATION FROM THE DEVICE.  Since everything is linked to your acount, all you have to do is accept permissions at the time you click install to mobile on your computer.
+
+I checked the phones I could install to and, sure enough, there was my [rooted] Galaxy S II SCH-I9100 listed under the O2 network.
+
+Now, it's time to have fun.
+
+Since I have some Android knowledge, I figure I could write an app that emails the phones location to my gmail. Pulls the name of the current caretaker and sends it to me, etc.
+
+It looks like someone else has had a similar idea.  There's an app called "Plan B" on the market that you install after you've lost your phone.  However, it is conspicuous and notifies whoever has the phone that it's sending the phone's location to the owner.  It's more for people who "left their phone in a dumpster".
+
+My app needs to hide and run a persistent service in the background that performs all the functions I need.  And I don't want the guy who has my phone freaking out because some message about "Plan B Installed Successfully!" poped up in his notification bar.  So the app is named "O2 Network Update" (=  
+
+This is an anonomized version (no you're not getting my Gmail login info) so it may not compile without some setup.  We'll see how I build it.
