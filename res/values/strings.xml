@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, O2NetworkUpdateActivity!</string>
+    <string name="app_name">O2 Network Update</string>
+
+</resources>
